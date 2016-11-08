@@ -1,6 +1,6 @@
 <a name="README">[<img src="https://s3-us-west-2.amazonaws.com/martinbucket/JS.png" width="200px" height="200px" />](https://github.com/MartinChavez/Learn-Javascript)</a>
 
-Javascript : Test-Driven Learning
+My fork of Javascript : Test-Driven Learning
 ================
 
 This project is aimed to help the user further study Javascript with a test-driven approach. Each unit contains an annotated tutorial and a platform where you can test your understanding of the topic.
